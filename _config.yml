@@ -14,10 +14,9 @@ social:
   #github: https://github.com/<username>
   linkedin-square: https://www.linkedin.com/in/lucasrigato/
   facebook-official: https://www.facebook.com/lucasrigato
-  #google-plus-square: https://plus.google.com/u/0/+<username>
-  email: mailto:lucas@lucasrigato.com
-  #flickr:
   instagram: https://www.instagram.com/lucasrigato/
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #flickr:
   #youtube-square:
   #spotify:
   #stack-overflow:
@@ -49,6 +48,7 @@ social:
   #forumbee:
   #tripadvisor:
   #amazon:
+  email: mailto:lucas@lucasrigato.com
 
 # Build settings
 markdown: kramdown
